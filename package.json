@@ -1,0 +1,15 @@
+{
+	"name": "adventofcode-2022",
+	"version": "1.0.0",
+	"description": "Advent of Code 2022 attmepts!",
+	"main": "index.js",
+	"repository": "https://github.com/justin-carver/adventofcode-2022",
+	"author": "Justin Carver <justin.carver@hotmail.com>",
+	"license": "GPLv3",
+	"dependencies": {
+		"nodemon": "^2.0.20"
+	},
+	"scripts": {
+		"1": "nodemon ./1/index.js"
+	}
+}
